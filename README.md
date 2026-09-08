@@ -141,6 +141,6 @@ Basic EDA was conducted to understand scale and baseline distributions:
 
 ## Project Files
 
-* 📜 **`scripts/hr_turnover_analysis.R`** – Full production R script (Data preparation, decision trees, random forests, PDP explainability, and ROC validation).
-* 📄 **`reports/HR_Analytics_Executive_Report.pdf`** – Executive summary report and visual figures.
-* 📁 **`data/raw/kaggle_hr_analytics.csv`** – Raw HR analytics dataset.
+* 📜 [R Script](scripts/hr_turnover_analysis.R) – Full production R script (Data preparation, decision trees, random forests, PDP explainability, and ROC validation).
+* 📄 [Report](reports/HR_Analytics_Executive_Report.pdf) – Executive summary report and visual figures.
+* 📁 [Dataset](data_raw/kaggle_hr_analytics.csv) – Raw HR analytics dataset.
